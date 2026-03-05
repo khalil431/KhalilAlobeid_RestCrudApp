@@ -49,7 +49,7 @@ Step-by-step instructions on how to get the development environment running.
 6. **Access the API:**
    - The application will start on:
      ```
-     http://localhost:8080
+     http://localhost:8085
      ```
 
 ## Usage
